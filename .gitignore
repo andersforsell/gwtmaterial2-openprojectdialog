@@ -1,0 +1,28 @@
+# Compiled files
+*.class
+
+# Package Files
+*.war
+
+# Maven
+/target/
+
+# GWT compiled units 
+/src/main/webapp/mint/
+
+# Caches and things from deploy
+/src/main/webapp/WEB-INF/deploy/
+/src/main/webapp/WEB-INF/classes/
+/src/main/webapp/WEB-INF/lib/
+/src/main/webapp/META-INF
+
+# GWT compilation logs
+.gwt/
+
+# GWT caching for already compiled files
+gwt-unitCache/
+/target/
+/target/
+/target/
+/target/
+/target/
